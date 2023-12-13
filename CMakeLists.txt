@@ -17,3 +17,4 @@ set(libs Boost::boost fmt::fmt range-v3::range-v3)
 set(inc ${CMAKE_SOURCE_DIR}/inc)
 
 add_subdirectory(day1)
+add_subdirectory(day2)
