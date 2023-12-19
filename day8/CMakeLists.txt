@@ -1,0 +1,6 @@
+add_executable(day8 task.cpp)
+target_link_libraries(day8 PRIVATE ${libs})
+target_include_directories(day8 PRIVATE ${inc})
+add_executable(day8_part2 task2.cpp)
+target_link_libraries(day8_part2 PRIVATE ${libs})
+target_include_directories(day8_part2 PRIVATE ${inc})
