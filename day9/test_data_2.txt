@@ -1,0 +1,10 @@
+LR
+
+GGA = (GGB, XXX)
+GGB = (XXX, GGZ)
+GGZ = (GGB, XXX)
+FFA = (FFB, XXX)
+FFB = (FFC, FFC)
+FFC = (FFZ, FFZ)
+FFZ = (FFB, FFB)
+XXX = (XXX, XXX)
